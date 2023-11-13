@@ -3,6 +3,7 @@
     "name": "game",
     "slug": "game",
     "version": "1.0.0",
+    "scheme": "acme",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
