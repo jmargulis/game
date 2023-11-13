@@ -37,6 +37,7 @@ const Home = () => {
             textAlign: 'center'
           }}>Home</Text>
           <Button page='/settings' label='Go to Settings page' />
+          <Button page='/map' label='Go to Map page' />
         </View>
       </ScrollView>
     </SafeAreaView>
